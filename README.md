@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao palco da inovação
 
-O "Atitude Overnight" não é apenas um hackathon; É uma oportunidade para unir mentes incríveis em uma jornada intensa e desafiadora redefinindo problemas do mundo real e transformando não apenas linhas de código, mas ideias inovadoras em ações significativas que impactam diretamente o mundo real.
+O ***Atitude Overnight*** não é apenas um hackathon; É uma oportunidade para unir mentes incríveis em uma jornada intensa e desafiadora redefinindo problemas do mundo real e transformando não apenas linhas de código, mas ideias inovadoras em ações significativas que impactam diretamente o mundo real.
 
 ### O Cenário
 
