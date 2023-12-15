@@ -15,6 +15,7 @@
 
 - **Polygon / MATIC:** [https://mumbaifaucet.com/](https://mumbaifaucet.com/)
 - **Polygon / MATIC:** [https://faucet.polygon.technology/](https://faucet.polygon.technology/) **(Vai pedir pra conectar o discord)**
+- **Chainlink / LINK:** [https://faucets.chain.link/mumbai](https://faucets.chain.link/mumbai)
 - **Outras Redes:** [https://docs.cryptum.io/english/community-edition/sdk-guides/get-test-currencies](https://docs.cryptum.io/english/community-edition/sdk-guides/get-test-currencies)
 
 **********************Scan de Transações**********************
