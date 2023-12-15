@@ -57,11 +57,6 @@ Sua missão é escolher um problema significativo e, usando as ferramentas da Cr
 
 - [cryptum.io](http://cryptum.io/)
 
-******API e API Connector******
-
-- [https://api-docs.cryptum.io/](https://api-docs.cryptum.io/)
-- [https://github.com/cryptum-official/cryptum-api-connector](https://github.com/cryptum-official/cryptum-api-connector)
-
 ******************Documentação******************
 
 - **Overview:** [https://docs.cryptum.io/english/community-edition/overview](https://docs.cryptum.io/english/community-edition/overview)
