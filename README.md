@@ -1,3 +1,19 @@
+# Desafio
+
+### Bem-vindo ao palco da inovação
+
+O "Atitude Overnight" não é apenas um hackathon; É uma oportunidade para unir mentes incríveis em uma jornada intensa e desafiadora redefinindo problemas do mundo real e transformando não apenas linhas de código, mas ideias inovadoras em ações significativas que impactam diretamente o mundo real.
+
+### O Cenário
+
+Vivemos em uma era em que a tecnologia é a ponte entre o presente e o futuro. No entanto, os desafios persistentes exigem abordagens revolucionárias.
+
+### O Desafio
+
+Sua missão é escolher um problema significativo e, usando as ferramentas da Web3 em conjunto com suas habilidades, desenvolver uma solução que não apenas aborde o problema, mas o transforme em uma oportunidade de mudança. Seja na saúde, educação, meio ambiente ou qualquer outro domínio, queremos que você pense além dos limites tradicionais.
+
+---
+
 # Links Importantes
 
 ### Carteira
