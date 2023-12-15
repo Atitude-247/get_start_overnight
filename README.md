@@ -10,7 +10,7 @@ Vivemos em uma era em que a tecnologia é a ponte entre o presente e o futuro. N
 
 ### O Desafio
 
-Sua missão é escolher um problema significativo e, usando as ferramentas da Web3 em conjunto com suas habilidades, desenvolver uma solução que não apenas aborde o problema, mas o transforme em uma oportunidade de mudança. Seja na saúde, educação, meio ambiente ou qualquer outro domínio, queremos que você pense além dos limites tradicionais.
+Sua missão é escolher um problema significativo e, usando as ferramentas da Cryptum para criar soluções Web3 em conjunto com suas habilidades, desenvolver uma solução que não apenas aborde o problema, mas o transforme em uma oportunidade de mudança. Seja na saúde, educação, meio ambiente ou qualquer outro domínio, queremos que você pense além dos limites tradicionais.
 
 ---
 
