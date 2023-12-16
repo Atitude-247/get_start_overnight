@@ -51,12 +51,13 @@ Sua missão é escolher um problema significativo e, usando as ferramentas da Cr
 
 ---
 
-### SDK de Desenvolvimento
+### SDK de Desenvolvimento da Cryptum
 
-****************************Site Principal****************************
+****************************Site Principal e Discord****************************
 
 - [cryptum.io](http://cryptum.io/)
-
+- [https://discord.gg/YY5GNZTZDT](https://discord.gg/YY5GNZTZDT)
+  
 ******************Documentação******************
 
 - **Overview:** [https://docs.cryptum.io/english/community-edition/overview](https://docs.cryptum.io/english/community-edition/overview)
@@ -66,6 +67,7 @@ Sua missão é escolher um problema significativo e, usando as ferramentas da Cr
 
 ****************Exemplos****************
 
+- **Projeto de Exemplo do Workshop:** [https://github.com/Madureiradaniel/cryptum-sdk-exemplo](https://github.com/Madureiradaniel/cryptum-sdk-exemplo) 
 - **Cryptum Lottery:** [https://github.com/cryptum-official/cryptum-lottery](https://github.com/cryptum-official/cryptum-lottery)
 - **Boilerplate Rest API:** [https://github.com/cryptum-official/boilerplate-rest-api](https://github.com/cryptum-official/boilerplate-rest-api)
 
