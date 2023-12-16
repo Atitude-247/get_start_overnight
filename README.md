@@ -23,6 +23,12 @@ Sua missão é escolher um problema significativo e, usando as ferramentas da Cr
 - [https://metamask.io/](https://metamask.io/)
 - [https://phantom.app/](https://phantom.app/)
 
+****Rede Polygon****
+- [https://polygon.technology/](https://polygon.technology/)
+
+****Rede Chainlink****
+- [https://chain.link/](https://chain.link/)
+ 
 ****Configurar a rede****
 
 - [https://chainlist.org/](https://chainlist.org/)
@@ -64,6 +70,9 @@ Sua missão é escolher um problema significativo e, usando as ferramentas da Cr
 - **SDK Guides:** [https://docs.cryptum.io/english/community-edition/sdk-guides](https://docs.cryptum.io/english/community-edition/sdk-guides)
 - **Github Repo:** [https://github.com/cryptum-official/cryptum-sdk](https://github.com/cryptum-official/cryptum-sdk)
 - **Github Docs:** [https://github.com/cryptum-official/cryptum-sdk/tree/master/docs](https://github.com/cryptum-official/cryptum-sdk/tree/master/docs)
+
+****************Dica****************
+- Ao inspecionar o código fonte do sdk você pode encontrar descrições de alguns parâmetros de função que podem ser úteis
 
 ****************Exemplos****************
 
